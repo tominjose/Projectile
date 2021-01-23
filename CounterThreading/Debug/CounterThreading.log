@@ -1,0 +1,4 @@
+﻿  CounterThreadingView.cpp
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(40,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomin\source\repos\CounterThreading\CounterThreading\CounterThreadingView.cpp(165,17): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  CounterThreading.vcxproj -> C:\Users\Tomin\source\repos\CounterThreading\Debug\CounterThreading.exe
